@@ -1,0 +1,8 @@
+*.txt
+*.pickle
+*.exe
+PDF/
+XML_files/
+TXT_files/
+TEX_files/
+dict/
